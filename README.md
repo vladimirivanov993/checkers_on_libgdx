@@ -1,2 +1,1 @@
-# checkers_on_libgdx
- 
+# Game Checkers with Visualization On LibGDX
